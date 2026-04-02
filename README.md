@@ -39,8 +39,7 @@ Drum-Kit/
 ├── index.js        # JavaScript logic
 ├── sounds/         # Drum sound files
 └── images/         # Button background images
-⚡ How to Run Locally
-Clone the repository:
+
 
 Future Improvements
 Add mobile touch support enhancements
